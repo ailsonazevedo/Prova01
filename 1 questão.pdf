@@ -1,0 +1,3 @@
+A orientação a objetos nos permite organizar e escrever menos códigos permitindo dividir o problema em pedaços menores para resolver o problema proposto.
+Classe trata-se uma classificação de objetos, que descreve obejtos com caracteristicas parecidas.
+por exemplo: um avião tem a classe economica, classe executiva, primeira classe. Onde todas são um lugar dentro do avião, porém uma proporciona um lugar mais confortavel dentro do avião que outra, o serviço de bordo com mais opções no cardápio.
