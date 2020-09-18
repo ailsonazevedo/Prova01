@@ -1,0 +1,23 @@
+Classe tabuleiro
+//atributos
+    zonas
+//metodos
+
+Classe bomba
+//atributos
+    posição
+
+    //metodos
+    MostrarBomba
+
+Classe jogada
+//atributos
+    DescobrirZona
+//metodos
+
+Classe zona
+//atributos
+    coberta = verdadeiro //(inicialmente começa coberta)
+/metodos
+    DescobrirZona
+    ContémBomba
